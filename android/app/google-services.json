@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "841807553459",
+    "project_id": "toxic-ai-app-786ee",
+    "storage_bucket": "toxic-ai-app-786ee.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:841807553459:android:dfa631dff2e162e64a21c6",
+        "android_client_info": {
+          "package_name": "com.example.toxic_ai_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCPXKF4EkT7MtL2gA-3JvCmyNs5RniYu3k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
